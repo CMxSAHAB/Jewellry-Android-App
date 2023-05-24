@@ -1,2 +1,17 @@
 # Jewellry-Android-App
 ![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/loginScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/homescreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+![](https://github.com/CMxSAHAB/Jewellry-Android-App/blob/master/screenshots/registerScreen.png)
+
