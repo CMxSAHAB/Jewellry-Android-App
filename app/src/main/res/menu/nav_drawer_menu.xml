@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/userProfile"
+            android:icon="@drawable/baseline_person_24"
+            android:title="User Profile" />
+        <item
+            android:id="@+id/yourOrders"
+            android:icon="@drawable/baseline_access_time_24"
+            android:title="Your Orders" />
+        <item
+            android:id="@+id/locateUs"
+            android:icon="@drawable/baseline_location_on_24"
+            android:title="Locate Us" />
+    </group>
+
+
+
+        <item android:title="All Jewellry Items">
+            <menu>
+                <item
+                    android:id="@+id/PendantTP"
+                    android:title="Pendant" />
+
+                <item
+                    android:id="@+id/bangleTP"
+                    android:title="Bangle" />
+                <item
+                    android:id="@+id/braceletTp"
+                    android:title="Bracelet" />
+                <item
+                    android:id="@+id/chainTp"
+                    android:title="Chain" />
+                <item
+                    android:id="@+id/coupleRingTp"
+                    android:title="Couple Rings" />
+                <item
+                    android:id="@+id/earRingsTp"
+                    android:title="Ear-Rings" />
+                <item
+                    android:id="@+id/fingerRingTp"
+                    android:title="Finger-Ring" />
+                <item
+                    android:id="@+id/goldCoinTp"
+                    android:title="Gold Coin" />
+                <item
+                    android:id="@+id/mangalsutraTp"
+                    android:title="Mangalsutra" />
+                <item
+                    android:id="@+id/neckWearTp"
+                    android:title="Neck Wear" />
+                <item
+                    android:id="@+id/nosePinTp"
+                    android:title="Nose-Pin" />
+                <item
+                    android:id="@+id/pendantSetTp"
+                    android:title="Pendant Set" />
+
+            </menu>
+        </item>
+
+</menu>

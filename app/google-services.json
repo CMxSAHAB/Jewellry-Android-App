@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170647151677",
+    "project_id": "travelling-b4768",
+    "storage_bucket": "travelling-b4768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170647151677:android:23615ff549bf77ad3f3654",
+        "android_client_info": {
+          "package_name": "com.example.locationsharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170647151677-10dvfnukjg534g8qkvj9ulv1h1a2u4kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnA0snIKNe3h86RDaqbZGEyTAlDJQ9FaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170647151677-10dvfnukjg534g8qkvj9ulv1h1a2u4kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
